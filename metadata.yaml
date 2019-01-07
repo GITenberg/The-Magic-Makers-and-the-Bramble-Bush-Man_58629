@@ -1,10 +1,13 @@
 _repo: The-Magic-Makers-and-the-Bramble-Bush-Man_58629
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doane, Pelagie
     gutenberg_agent_id: '39831'
     url: http://www.gutenberg.org/2009/agents/39831
+covers:
+- cover_type: archival
+  image_path: 58629-h/images/cover2.jpg
 creator:
   author:
     agent_name: Sutton, Margaret
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '44495'
     url: http://www.gutenberg.org/2009/agents/44495
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58629#The-Magic-Makers-and-the-Bramble-Bush-Man
 gutenberg_issued: '2019-01-06'
 gutenberg_type: Text
 identifiers:
